@@ -14,6 +14,8 @@
   <li>Email:<a href="mailto:syedh2958@gmail.com">syedh2958@gmail.com</a> </li>
 </ul>
 
-<p>"Embrace every challenge as an opportunity for growth." - BS. Siegel</p>
+<blockquote>
+<p dir="auto">"Embrace every challenge as an opportunity for growth." - BS. Siegel</p>
+</blockquote>
 
 
