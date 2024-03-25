@@ -1,5 +1,5 @@
 <h1>Hi, I'm Syed Hussain Ahmad 👋</h1>
-<h3>Passionate Frontend Developer at BM-Global Inc. | Innovator & Lifelong Learner</h3>
+<h3>Passionate Full Stack Developer at BM-Global Inc. | Innovator & Lifelong Learner</h3>
 <p>I'm a dedicated professional contributing my skills and expertise at <a href="https://bmgroupinc.com/">BM-Global Inc.</a> With a solid educational foundation, including a Bachelor's degree in Information Technology from <a href="https://ue.edu.pk/">University of Education</a>, I've developed a profound understanding of the technology landscape.</p>
 
   <h3 align="left">Languages and Tools:</h3>
