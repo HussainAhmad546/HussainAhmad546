@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <ul>
   <li><a href="https://www.linkedin.com/in/syed-hussain-ahmad/">LinkedIn</a> </li>
-  <li><a href="https://hussainahmad.site/">Personal Website</a> </li> 
+  <li><a href="https://syedhussainahmad.com/">Personal Website</a> </li> 
   <li>Email:<a href="mailto:syedh2958@gmail.com">syedh2958@gmail.com</a> </li>
 </ul>
 
