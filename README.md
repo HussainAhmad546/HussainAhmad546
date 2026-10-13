@@ -63,18 +63,6 @@ I hold a **Bachelor's degree in Information Technology** from the [University of
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- Apne best 2-4 projects yahan likhein. Har project ka link, short description aur tech stack dein. -->
-
-| Project | Description | Tech |
-| :-- | :-- | :-- |
-| **[Project Name 1](https://github.com/HussainAhmad546/repo-name)** | Ek line mein batayein ke yeh kya karta hai aur kis ke liye hai | `React` `Node.js` `MongoDB` |
-| **[Project Name 2](https://github.com/HussainAhmad546/repo-name)** | Ek line mein batayein ke yeh kya karta hai aur kis ke liye hai | `React` `Redux` `Express` |
-| **[Project Name 3](https://github.com/HussainAhmad546/repo-name)** | Ek line mein batayein ke yeh kya karta hai aur kis ke liye hai | `Node.js` `Express` `MongoDB` |
-
----
-
 ## 🤝 Let's Connect
 
 I'm always happy to discuss new ideas, projects and opportunities.
