@@ -1,21 +1,92 @@
-<h1>Hi, I'm Syed Hussain Ahmad 👋</h1>
-<h3>Passionate Software Engineer at IIFA TECH. | Innovator & Lifelong Learner</h3>
-<p>I'm a dedicated professional contributing my skills and expertise at <a href="https://iifatech.com/">IIFA TECH.</a> With a solid educational foundation, including a Bachelor's degree in Information Technology from <a href="https://ue.edu.pk/">University of Education</a>, I've developed a profound understanding of the technology landscape.</p>
+<div align="center">
 
-  <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Syed%20Hussain%20Ahmad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=20" alt="Syed Hussain Ahmad" width="100%"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainahmad546&show_icons=true&locale=en" alt="hussainahmad546" /></p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+IIFA+TECH;MERN+Stack+Developer;Building+scalable+web+applications;Lifelong+learner+%7C+Problem+solver" alt="Typing SVG" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<ul>
-  <li><a href="https://www.linkedin.com/in/syed-hussain-ahmad/">LinkedIn</a> </li>
-  <li><a href="https://syedhussainahmad.com/">Personal Website</a> </li> 
-  <li>Email:<a href="mailto:syedh2958@gmail.com">syedh2958@gmail.com</a> </li>
-</ul>
+<br/>
 
-<blockquote>
-<p dir="auto">"Embrace every challenge as an opportunity for growth." - BS. Siegel</p>
-</blockquote>
+<a href="https://www.linkedin.com/in/syed-hussain-ahmad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://syedhussainahmad.com/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:syedh2958@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=HussainAhmad546&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile views"/>
 
+</div>
 
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Engineer at [IIFA TECH](https://iifatech.com/)** focused on building clean, scalable and user-friendly web applications with the **MERN stack**.
+I hold a **Bachelor's degree in Information Technology** from the [University of Education](https://ue.edu.pk/), and I enjoy turning complex problems into simple, reliable products.
+
+- 🔭 Currently working on: **Full stack web applications at IIFA TECH**
+- 🌱 Currently learning: **System design, TypeScript, Next.js** *(apni marzi se edit karein)*
+- 🤝 Open to: **Collaborations, freelance projects and open-source contributions**
+- 📍 Based in: **Lahore, Pakistan**
+- 💬 Ask me about: **React, Node.js, Express, MongoDB, REST APIs**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" alt="Frontend" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" alt="Tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=HussainAhmad546&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussainAhmad546&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=HussainAhmad546&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Apne best 2-4 projects yahan likhein. Har project ka link, short description aur tech stack dein. -->
+
+| Project | Description | Tech |
+| :-- | :-- | :-- |
+| **[Project Name 1](https://github.com/HussainAhmad546/repo-name)** | Ek line mein batayein ke yeh kya karta hai aur kis ke liye hai | `React` `Node.js` `MongoDB` |
+| **[Project Name 2](https://github.com/HussainAhmad546/repo-name)** | Ek line mein batayein ke yeh kya karta hai aur kis ke liye hai | `React` `Redux` `Express` |
+| **[Project Name 3](https://github.com/HussainAhmad546/repo-name)** | Ek line mein batayein ke yeh kya karta hai aur kis ke liye hai | `Node.js` `Express` `MongoDB` |
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to discuss new ideas, projects and opportunities.
+
+- 💼 LinkedIn: [syed-hussain-ahmad](https://www.linkedin.com/in/syed-hussain-ahmad/)
+- 🌐 Portfolio: [syedhussainahmad.com](https://syedhussainahmad.com/)
+- 📧 Email: [syedh2958@gmail.com](mailto:syedh2958@gmail.com)
+
+<div align="center">
+
+> *"Embrace every challenge as an opportunity for growth."* — B.S. Siegel
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
