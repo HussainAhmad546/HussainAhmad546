@@ -23,7 +23,7 @@ I'm a **Software Engineer at [IIFA TECH](https://iifatech.com/)** focused on bui
 I hold a **Bachelor's degree in Information Technology** from the [University of Education](https://ue.edu.pk/), and I enjoy turning complex problems into simple, reliable products.
 
 - 🔭 Currently working on: **Full stack web applications at IIFA TECH**
-- 🌱 Currently learning: **System design, TypeScript, Next.js** *(apni marzi se edit karein)*
+- 🌱 Currently learning: **System design, TypeScript, Next.js**
 - 🤝 Open to: **Collaborations, freelance projects and open-source contributions**
 - 📍 Based in: **Lahore, Pakistan**
 - 💬 Ask me about: **React, Node.js, Express, MongoDB, REST APIs**
